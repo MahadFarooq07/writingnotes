@@ -1,0 +1,18 @@
+# Personal handwriting samples and profiles
+Data/
+
+# Local test output and diagnostics
+test-results.txt
+test-profile.json*
+test-document.phdoc*
+onenote-test-page-id.txt
+startup-error.txt
+*.tmp
+*.bak
+
+# Editor and operating-system files
+.vs/
+.idea/
+*.user
+Thumbs.db
+Desktop.ini
